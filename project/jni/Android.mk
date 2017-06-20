@@ -5,6 +5,7 @@ A3D_CLIENT_VERSION := A3D_GLESv2
 # include libraries in correct order
 include $(LOCAL_PATH)/texgz/Android.mk
 include $(LOCAL_PATH)/a3d/Android.mk
+include $(LOCAL_PATH)/libpak/Android.mk
 
 include $(CLEAR_VARS)
 LOCAL_MODULE    := GearsES2eclair
