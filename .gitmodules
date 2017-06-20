@@ -1,20 +1,20 @@
 [submodule "project/src/com/jeffboody/a3d"]
 	path = project/src/com/jeffboody/a3d
-	# url = git@github.com:jeffboody/a3d-java.git # read-write
-	url = git://github.com/jeffboody/a3d-java.git # read-only
+	# url = git@github.com/jeffboody/a3d-java.git # read-write
+	url = https://github.com/jeffboody/a3d-java.git # read-only
 [submodule "project/jni/a3d"]
 	path = project/jni/a3d
-	# url = git@github.com:jeffboody/a3d-native.git # read-write
-	url = git://github.com/jeffboody/a3d-native.git # read-only
+	# url = git@github.com/jeffboody/a3d-native.git # read-write
+	url = https://github.com/jeffboody/a3d-native.git # read-only
 [submodule "project/jni/loax"]
 	path = project/jni/loax
-	url = git://github.com/jeffboody/loax
+	url = https://github.com/jeffboody/loax
 [submodule "project/jni/net"]
 	path = project/jni/net
-	url = git://github.com/jeffboody/net
+	url = https://github.com/jeffboody/net
 [submodule "project/jni/texgz"]
 	path = project/jni/texgz
-	url = git://github.com/jeffboody/texgz.git
+	url = https://github.com/jeffboody/texgz.git
 [submodule "project/jni/libpak"]
 	path = project/jni/libpak
-	url = git://github.com:jeffboody/libpak.git
+	url = https://github.com/jeffboody/libpak.git
